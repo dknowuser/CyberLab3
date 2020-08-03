@@ -1,0 +1,329 @@
+Dependencies for Project 'base', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x5D8633D4)(--c99 --gnu -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include-I.\RTE\RTOS-I.\RTE\_Target_1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F407xx-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5C5BD672)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\FreeRTOS.h)(0x5CD62451)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEBC032)
+I (.\RTE\RTOS\FreeRTOSConfig.h)(0x5D7D4E9F)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5D7CEB42)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5CB028AC)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEBC032)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\projdefs.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\portable.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\deprecated_definitions.h)(0x5CD62451)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x5CB028B4)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\mpu_wrappers.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\task.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\list.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\queue.h)(0x5CD62451)
+F (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Source\ARM\clib_arm.c)(0x5CB028AC)(--c99 --gnu -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include-I.\RTE\RTOS-I.\RTE\_Target_1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F407xx-o .\objects\clib_arm.o --omf_browse .\objects\clib_arm.crf --depend .\objects\clib_arm.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEBC032)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\FreeRTOS.h)(0x5CD62451)
+I (.\RTE\RTOS\FreeRTOSConfig.h)(0x5D7D4E9F)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5D7CEB42)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5CB028AC)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEBC032)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\projdefs.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\portable.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\deprecated_definitions.h)(0x5CD62451)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x5CB028B4)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\mpu_wrappers.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\task.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\list.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\semphr.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\queue.h)(0x5CD62451)
+F (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Source\cmsis_os1.c)(0x5B728442)(--c99 --gnu -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include-I.\RTE\RTOS-I.\RTE\_Target_1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F407xx-o .\objects\cmsis_os1.o --omf_browse .\objects\cmsis_os1.crf --depend .\objects\cmsis_os1.d)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEBC032)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include1\cmsis_os.h)(0x5CB028AC)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\FreeRTOS.h)(0x5CD62451)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEBC032)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\RTE\RTOS\FreeRTOSConfig.h)(0x5D7D4E9F)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5D7CEB42)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5CB028AC)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\projdefs.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\portable.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\deprecated_definitions.h)(0x5CD62451)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x5CB028B4)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\mpu_wrappers.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\task.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\list.h)(0x5CD62451)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h)(0x5C8F5DE8)
+F (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Source\cmsis_os2.c)(0x5CB028AC)(--c99 --gnu -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include-I.\RTE\RTOS-I.\RTE\_Target_1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F407xx-o .\objects\cmsis_os2.o --omf_browse .\objects\cmsis_os2.crf --depend .\objects\cmsis_os2.d)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEBC032)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5D7CEB42)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h)(0x5C8F5DE8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEBC032)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\os_tick.h)(0x5B61B6D4)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\FreeRTOS.h)(0x5CD62451)
+I (.\RTE\RTOS\FreeRTOSConfig.h)(0x5D7D4E9F)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5CB028AC)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\projdefs.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\portable.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\deprecated_definitions.h)(0x5CD62451)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x5CB028B4)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\mpu_wrappers.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\task.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\list.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\event_groups.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\timers.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\semphr.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\queue.h)(0x5CD62451)
+F (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Source\os_systick.c)(0x5B728442)(--c99 --gnu -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include-I.\RTE\RTOS-I.\RTE\_Target_1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F407xx-o .\objects\os_systick.o --omf_browse .\objects\os_systick.crf --depend .\objects\os_systick.d)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include\os_tick.h)(0x5B61B6D4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5D7CEB42)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5C5BD672)
+F (RTE\Device\STM32F407VGTx\startup_stm32f407xx.s)(0x5C5BD672)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\RTOS-I.\RTE\_Target_1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include--pd "__UVISION_VERSION SETA 528" --pd "_RTE_ SETA 1" --pd "STM32F407xx SETA 1"--list .\listings\startup_stm32f407xx.lst --xref -o .\objects\startup_stm32f407xx.o --depend .\objects\startup_stm32f407xx.d)
+F (RTE\Device\STM32F407VGTx\system_stm32f4xx.c)(0x5C5BD672)(--c99 --gnu -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include-I.\RTE\RTOS-I.\RTE\_Target_1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F407xx-o .\objects\system_stm32f4xx.o --omf_browse .\objects\system_stm32f4xx.crf --depend .\objects\system_stm32f4xx.d)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5C5BD672)
+F (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Source\freertos_evr.c)(0x5CB028AC)(--c99 --gnu -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include-I.\RTE\RTOS-I.\RTE\_Target_1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F407xx-o .\objects\freertos_evr.o --omf_browse .\objects\freertos_evr.crf --depend .\objects\freertos_evr.d)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\FreeRTOS.h)(0x5CD62451)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEBC032)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\RTE\RTOS\FreeRTOSConfig.h)(0x5D7D4E9F)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5D7CEB42)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5CB028AC)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEBC032)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\projdefs.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\portable.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\deprecated_definitions.h)(0x5CD62451)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x5CB028B4)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\mpu_wrappers.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\task.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\list.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\semphr.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\queue.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\event_groups.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\timers.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\stream_buffer.h)(0x5CD62451)
+F (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\event_groups.c)(0x5CB028B2)(--c99 --gnu -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include-I.\RTE\RTOS-I.\RTE\_Target_1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F407xx-o .\objects\event_groups.o --omf_browse .\objects\event_groups.crf --depend .\objects\event_groups.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5CEBC032)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\FreeRTOS.h)(0x5CD62451)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEBC032)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\RTE\RTOS\FreeRTOSConfig.h)(0x5D7D4E9F)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5D7CEB42)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5CB028AC)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEBC032)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\projdefs.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\portable.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\deprecated_definitions.h)(0x5CD62451)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x5CB028B4)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\mpu_wrappers.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\task.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\list.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\timers.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\event_groups.h)(0x5CD62451)
+F (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\list.c)(0x5CB028B2)(--c99 --gnu -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include-I.\RTE\RTOS-I.\RTE\_Target_1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F407xx-o .\objects\list.o --omf_browse .\objects\list.crf --depend .\objects\list.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5CEBC032)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\FreeRTOS.h)(0x5CD62451)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEBC032)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\RTE\RTOS\FreeRTOSConfig.h)(0x5D7D4E9F)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5D7CEB42)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5CB028AC)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEBC032)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\projdefs.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\portable.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\deprecated_definitions.h)(0x5CD62451)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x5CB028B4)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\mpu_wrappers.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\list.h)(0x5CD62451)
+F (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\MemMang\heap_4.c)(0x5CB028B4)(--c99 --gnu -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include-I.\RTE\RTOS-I.\RTE\_Target_1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F407xx-o .\objects\heap_4.o --omf_browse .\objects\heap_4.crf --depend .\objects\heap_4.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5CEBC032)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\FreeRTOS.h)(0x5CD62451)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEBC032)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\RTE\RTOS\FreeRTOSConfig.h)(0x5D7D4E9F)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5D7CEB42)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5CB028AC)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEBC032)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\projdefs.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\portable.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\deprecated_definitions.h)(0x5CD62451)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x5CB028B4)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\mpu_wrappers.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\task.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\list.h)(0x5CD62451)
+F (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F\port.c)(0x5CB028B4)(--c99 --gnu -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include-I.\RTE\RTOS-I.\RTE\_Target_1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F407xx-o .\objects\port.o --omf_browse .\objects\port.crf --depend .\objects\port.d)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\FreeRTOS.h)(0x5CD62451)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEBC032)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\RTE\RTOS\FreeRTOSConfig.h)(0x5D7D4E9F)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5D7CEB42)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5CB028AC)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEBC032)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\projdefs.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\portable.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\deprecated_definitions.h)(0x5CD62451)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x5CB028B4)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\mpu_wrappers.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\task.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\list.h)(0x5CD62451)
+F (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\queue.c)(0x5CB028B4)(--c99 --gnu -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include-I.\RTE\RTOS-I.\RTE\_Target_1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F407xx-o .\objects\queue.o --omf_browse .\objects\queue.crf --depend .\objects\queue.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5CEBC032)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEBC032)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\FreeRTOS.h)(0x5CD62451)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEBC032)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\RTE\RTOS\FreeRTOSConfig.h)(0x5D7D4E9F)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5D7CEB42)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5CB028AC)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\projdefs.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\portable.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\deprecated_definitions.h)(0x5CD62451)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x5CB028B4)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\mpu_wrappers.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\task.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\list.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\queue.h)(0x5CD62451)
+F (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\tasks.c)(0x5CB028B4)(--c99 --gnu -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include-I.\RTE\RTOS-I.\RTE\_Target_1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F407xx-o .\objects\tasks.o --omf_browse .\objects\tasks.crf --depend .\objects\tasks.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5CEBC032)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEBC032)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\FreeRTOS.h)(0x5CD62451)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEBC032)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\RTE\RTOS\FreeRTOSConfig.h)(0x5D7D4E9F)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5D7CEB42)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5CB028AC)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\projdefs.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\portable.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\deprecated_definitions.h)(0x5CD62451)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x5CB028B4)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\mpu_wrappers.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\task.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\list.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\timers.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\stack_macros.h)(0x5CD62451)
+F (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\timers.c)(0x5CB028B4)(--c99 --gnu -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include-I.\RTE\RTOS-I.\RTE\_Target_1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include1-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\RTOS2\Include-IC:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F407xx-o .\objects\timers.o --omf_browse .\objects\timers.crf --depend .\objects\timers.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5CEBC032)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\FreeRTOS.h)(0x5CD62451)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5CEBC032)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEBC032)
+I (.\RTE\RTOS\FreeRTOSConfig.h)(0x5D7D4E9F)
+I (.\RTE\_Target_1\RTE_Components.h)(0x5D7CEB42)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h)(0x5CB028AC)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5CEBC032)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\projdefs.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\portable.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\deprecated_definitions.h)(0x5CD62451)
+I (C:\Users\maro4_000\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.2.0\Source\portable\RVDS\ARM_CM4F\portmacro.h)(0x5CB028B4)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\mpu_wrappers.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\task.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\list.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\queue.h)(0x5CD62451)
+I (E:\Installers&Downloads\FreeRTOSv10.2.1\FreeRTOS\Source\include\timers.h)(0x5CD62451)
+F (RTE\RTOS\FreeRTOSConfig.h)(0x5D7D4E9F)()
